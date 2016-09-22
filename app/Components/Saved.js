@@ -1,30 +1,30 @@
 
 
-var React = require('react');
+// var React = require('react');
 
-var Search = require('Search');
+// var Search = require('Search');
 
-var Saved = React.createClass({
-	getInitialState: function(){
-		return{
+// var Saved = React.createClass({
+// 	getInitialState: function(){
+// 		return{
 
-		}
-	},
+// 		}
+// 	},
 
-	render: function(){
+// 	render: function(){
 
-		return (
+// 		return (
 
-			<div>
+// 			<div>
 
-			</div>
+// 			</div>
 
-		)
+// 		)
 
-	}
+// 	}
 
 
 
-});
+// });
 
-module.exports = Saved;
+// module.exports = Saved;
